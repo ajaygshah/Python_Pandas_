@@ -16,3 +16,7 @@ There are three possibilities:
 1) Student has marked only one of the choices (this is straight-forward)
 2) Student has marked none of the choices
 3) Student has marked more than one of the choices.
+
+The objective is to come up with different solutions and find out which one
+would be the most effective. While we find different solutions, there are 
+scenarios that may come up and we need to account for them.

@@ -2,7 +2,7 @@
 How do we collapse columns?
 
 Lot of times, there is a need to collapse columns. Especially for examinations,
-we need ot figure out the MCQ choices and figure out which one has been marked.
+we need to figure out the MCQ choices and figure out which one has been marked.
 
 Assumptions:
 1) For each question, there are going to be four options.

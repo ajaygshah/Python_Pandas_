@@ -32,3 +32,6 @@ df.drop([0,1,2,3], axis = 1, inplace = True)
 df.rename({4 : 'Q1'}, axis=1, inplace=True)
 
 print(df)
+
+#---------------------------------------------------------------------
+#so now how do we create the above lines into a function?
